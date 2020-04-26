@@ -1,0 +1,3 @@
+argparse-test:
+    main: main
+    flags-import: true
